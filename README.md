@@ -10,4 +10,5 @@ Core data contains normalized simulation data averaged over 1 million simulation
 Given a full optimal policy table, the data shows what fraction of
 the table would be different if decisions were made by a particular algorithm.
 
-[**Rate of suboptimal decisions**](rate_suboptimal): This data reports what fraction of decisions a given algorithm makes while playing are suboptimal (i.e., would disagree with the optimal policy). 
+[**Rate of suboptimal decisions**](rate_suboptimal): 
+This data reports what fraction of decisions a given algorithm makes while playing are suboptimal (i.e., would disagree with the optimal policy). 
