@@ -1,0 +1,238 @@
+Hello, world!
+ ------------- t: 0
+ ------------- t: 1
+ ------------- t: 2
+ ------------- t: 3
+ ------------- t: 4
+ ------------- t: 5
+ ------------- t: 6
+ ------------- t: 7
+ ------------- t: 8
+ ------------- t: 9
+ ------------- t: 10
+ ------------- t: 11
+ ------------- t: 12
+ ------------- t: 13
+ ------------- t: 14
+ ------------- t: 15
+ ------------- t: 16
+ ------------- t: 17
+ ------------- t: 18
+ ------------- t: 19
+ ------------- t: 20
+ ------------- t: 21
+ ------------- t: 22
+ ------------- t: 23
+ ------------- t: 24
+ ------------- t: 25
+ ------------- t: 26
+ ------------- t: 27
+ ------------- t: 28
+ ------------- t: 29
+ ------------- t: 30
+Total: 369944
+
+
+
+
+0 reach: -nan	reach-gr/reach: -nan	reach-gr/sum -nan
+1 reach: 1	reach-gr/reach: 1	reach-gr/sum 1
+2 reach: 1	reach-gr/reach: 0.666667	reach-gr/sum 0.666667
+3 reach: 0.7	reach-gr/reach: 0.428571	reach-gr/sum 0.3
+4 reach: 0.5	reach-gr/reach: 0.357143	reach-gr/sum 0.178571
+5 reach: 0.403226	reach-gr/reach: 0.32	reach-gr/sum 0.129032
+6 reach: 0.33871	reach-gr/reach: 0.261905	reach-gr/sum 0.0887097
+7 reach: 0.273469	reach-gr/reach: 0.238806	reach-gr/sum 0.0653061
+8 reach: 0.238876	reach-gr/reach: 0.215686	reach-gr/sum 0.0515222
+9 reach: 0.207232	reach-gr/reach: 0.187919	reach-gr/sum 0.038943
+10 reach: 0.18151	reach-gr/reach: 0.172897	reach-gr/sum 0.0313825
+11 reach: 0.159563	reach-gr/reach: 0.164384	reach-gr/sum 0.0262295
+12 reach: 0.147059	reach-gr/reach: 0.148148	reach-gr/sum 0.0217865
+13 reach: 0.132666	reach-gr/reach: 0.138122	reach-gr/sum 0.018324
+14 reach: 0.120369	reach-gr/reach: 0.133333	reach-gr/sum 0.0160492
+15 reach: 0.111988	reach-gr/reach: 0.121475	reach-gr/sum 0.0136038
+16 reach: 0.102721	reach-gr/reach: 0.115843	reach-gr/sum 0.0118996
+17 reach: 0.0961749	reach-gr/reach: 0.110664	reach-gr/sum 0.0106431
+18 reach: 0.0900227	reach-gr/reach: 0.104021	reach-gr/sum 0.00936429
+19 reach: 0.0848964	reach-gr/reach: 0.0990991	reach-gr/sum 0.00841316
+20 reach: 0.0805852	reach-gr/reach: 0.0964943	reach-gr/sum 0.00777601
+21 reach: 0.0767544	reach-gr/reach: 0.0899321	reach-gr/sum 0.00690269
+22 reach: 0.0728118	reach-gr/reach: 0.0871795	reach-gr/sum 0.0063477
+23 reach: 0.0696365	reach-gr/reach: 0.0835585	reach-gr/sum 0.00581872
+24 reach: 0.0666051	reach-gr/reach: 0.0802579	reach-gr/sum 0.00534558
+25 reach: 0.0639378	reach-gr/reach: 0.0779501	reach-gr/sum 0.00498396
+26 reach: 0.0616481	reach-gr/reach: 0.0768445	reach-gr/sum 0.00473731
+27 reach: 0.0594104	reach-gr/reach: 0.0735181	reach-gr/sum 0.00436774
+28 reach: 0.0573058	reach-gr/reach: 0.0716802	reach-gr/sum 0.00410769
+29 reach: 0.0558139	reach-gr/reach: 0.0698176	reach-gr/sum 0.0038968
+30 reach: 0.0539638	reach-gr/reach: 0.0675417	reach-gr/sum 0.00364481
+31 reach: 0.0526053	reach-gr/reach: 0.0656698	reach-gr/sum 0.00345458
+32 reach: 0.0509151	reach-gr/reach: 0.0642755	reach-gr/sum 0.0032726
+33 reach: 0.0495646	reach-gr/reach: 0.062677	reach-gr/sum 0.00310656
+34 reach: 0.0483443	reach-gr/reach: 0.0616355	reach-gr/sum 0.00297972
+35 reach: 0.0470274	reach-gr/reach: 0.0614961	reach-gr/sum 0.002892
+36 reach: 0.0459758	reach-gr/reach: 0.0606877	reach-gr/sum 0.00279016
+37 reach: 0.0448144	reach-gr/reach: 0.0595839	reach-gr/sum 0.00267022
+38 reach: 0.0439482	reach-gr/reach: 0.0589477	reach-gr/sum 0.00259064
+39 reach: 0.0428648	reach-gr/reach: 0.0582283	reach-gr/sum 0.00249595
+40 reach: 0.0421747	reach-gr/reach: 0.0573004	reach-gr/sum 0.00241662
+41 reach: 0.0410294	reach-gr/reach: 0.0567521	reach-gr/sum 0.00232851
+42 reach: 0.0403586	reach-gr/reach: 0.0559222	reach-gr/sum 0.00225694
+43 reach: 0.039366	reach-gr/reach: 0.0556207	reach-gr/sum 0.00218957
+44 reach: 0.0388458	reach-gr/reach: 0.0551312	reach-gr/sum 0.00214162
+45 reach: 0.0379618	reach-gr/reach: 0.0547545	reach-gr/sum 0.00207858
+46 reach: 0.0372779	reach-gr/reach: 0.053921	reach-gr/sum 0.00201006
+47 reach: 0.0365833	reach-gr/reach: 0.0536891	reach-gr/sum 0.00196412
+48 reach: 0.0359342	reach-gr/reach: 0.0530947	reach-gr/sum 0.00190792
+49 reach: 0.0354022	reach-gr/reach: 0.0525558	reach-gr/sum 0.00186059
+50 reach: 0.0347728	reach-gr/reach: 0.0523006	reach-gr/sum 0.00181864
+51 reach: 0.0341465	reach-gr/reach: 0.0520177	reach-gr/sum 0.00177622
+52 reach: 0.0336129	reach-gr/reach: 0.0515696	reach-gr/sum 0.0017334
+53 reach: 0.0330755	reach-gr/reach: 0.0513298	reach-gr/sum 0.00169776
+54 reach: 0.0326917	reach-gr/reach: 0.0507065	reach-gr/sum 0.00165768
+55 reach: 0.0323877	reach-gr/reach: 0.050404	reach-gr/sum 0.00163247
+56 reach: 0.0319364	reach-gr/reach: 0.0496947	reach-gr/sum 0.00158707
+57 reach: 0.0314306	reach-gr/reach: 0.0495923	reach-gr/sum 0.00155872
+58 reach: 0.0311276	reach-gr/reach: 0.0494018	reach-gr/sum 0.00153776
+59 reach: 0.030623	reach-gr/reach: 0.0489841	reach-gr/sum 0.00150004
+60 reach: 0.0302884	reach-gr/reach: 0.0486704	reach-gr/sum 0.00147415
+61 reach: 0.0299735	reach-gr/reach: 0.0482614	reach-gr/sum 0.00144656
+62 reach: 0.0300734	reach-gr/reach: 0.0481553	reach-gr/sum 0.00144819
+63 reach: 0.0297267	reach-gr/reach: 0.0477711	reach-gr/sum 0.00142008
+64 reach: 0.0293771	reach-gr/reach: 0.0474765	reach-gr/sum 0.00139472
+65 reach: 0.0291554	reach-gr/reach: 0.0474599	reach-gr/sum 0.00138371
+66 reach: 0.0288463	reach-gr/reach: 0.046849	reach-gr/sum 0.00135142
+67 reach: 0.0284984	reach-gr/reach: 0.0467122	reach-gr/sum 0.00133122
+68 reach: 0.0282109	reach-gr/reach: 0.0462381	reach-gr/sum 0.00130442
+69 reach: 0.027926	reach-gr/reach: 0.0461429	reach-gr/sum 0.00128858
+70 reach: 0.0276638	reach-gr/reach: 0.0456756	reach-gr/sum 0.00126356
+71 reach: 0.0273592	reach-gr/reach: 0.0453704	reach-gr/sum 0.00124129
+72 reach: 0.0271209	reach-gr/reach: 0.0450683	reach-gr/sum 0.00122229
+73 reach: 0.0267992	reach-gr/reach: 0.0450086	reach-gr/sum 0.00120619
+74 reach: 0.0265535	reach-gr/reach: 0.0447089	reach-gr/sum 0.00118718
+75 reach: 0.0263086	reach-gr/reach: 0.0442523	reach-gr/sum 0.00116422
+76 reach: 0.0260419	reach-gr/reach: 0.0441065	reach-gr/sum 0.00114862
+77 reach: 0.0258022	reach-gr/reach: 0.043833	reach-gr/sum 0.00113099
+78 reach: 0.0255969	reach-gr/reach: 0.0435865	reach-gr/sum 0.00111568
+79 reach: 0.0254136	reach-gr/reach: 0.0434684	reach-gr/sum 0.00110469
+80 reach: 0.0251924	reach-gr/reach: 0.0431642	reach-gr/sum 0.00108741
+81 reach: 0.0249785	reach-gr/reach: 0.0429992	reach-gr/sum 0.00107405
+82 reach: 0.0247655	reach-gr/reach: 0.0428075	reach-gr/sum 0.00106015
+83 reach: 0.0245019	reach-gr/reach: 0.0425504	reach-gr/sum 0.00104256
+84 reach: 0.0242862	reach-gr/reach: 0.0424844	reach-gr/sum 0.00103178
+85 reach: 0.0241116	reach-gr/reach: 0.0423658	reach-gr/sum 0.0010215
+86 reach: 0.0238887	reach-gr/reach: 0.0419703	reach-gr/sum 0.00100262
+87 reach: 0.0237148	reach-gr/reach: 0.0418947	reach-gr/sum 0.000993522
+88 reach: 0.0235087	reach-gr/reach: 0.0417485	reach-gr/sum 0.000981454
+89 reach: 0.0233744	reach-gr/reach: 0.041599	reach-gr/sum 0.00097235
+90 reach: 0.0231911	reach-gr/reach: 0.0414278	reach-gr/sum 0.000960755
+91 reach: 0.0230369	reach-gr/reach: 0.0412403	reach-gr/sum 0.000950049
+92 reach: 0.0228535	reach-gr/reach: 0.0410857	reach-gr/sum 0.000938952
+93 reach: 0.0226525	reach-gr/reach: 0.0409743	reach-gr/sum 0.00092817
+94 reach: 0.0224556	reach-gr/reach: 0.0408351	reach-gr/sum 0.000916976
+95 reach: 0.0223036	reach-gr/reach: 0.0406282	reach-gr/sum 0.000906157
+96 reach: 0.0221333	reach-gr/reach: 0.0404055	reach-gr/sum 0.000894307
+97 reach: 0.021987	reach-gr/reach: 0.0403719	reach-gr/sum 0.000887658
+98 reach: 0.0218936	reach-gr/reach: 0.0402132	reach-gr/sum 0.000880414
+99 reach: 0.0217282	reach-gr/reach: 0.0400602	reach-gr/sum 0.000870435
+100 reach: 0.0215888	reach-gr/reach: 0.0399894	reach-gr/sum 0.000863323
+101 reach: 0.0214653	reach-gr/reach: 0.0397889	reach-gr/sum 0.000854081
+102 reach: 0.0213322	reach-gr/reach: 0.0396903	reach-gr/sum 0.000846681
+103 reach: 0.0211838	reach-gr/reach: 0.0396288	reach-gr/sum 0.000839489
+104 reach: 0.0210622	reach-gr/reach: 0.039465	reach-gr/sum 0.000831219
+105 reach: 0.0208949	reach-gr/reach: 0.0392545	reach-gr/sum 0.00082022
+106 reach: 0.0207765	reach-gr/reach: 0.0391936	reach-gr/sum 0.000814306
+107 reach: 0.0206638	reach-gr/reach: 0.0390002	reach-gr/sum 0.00080589
+108 reach: 0.0205455	reach-gr/reach: 0.038879	reach-gr/sum 0.000798789
+109 reach: 0.020442	reach-gr/reach: 0.0387719	reach-gr/sum 0.000792576
+110 reach: 0.0203254	reach-gr/reach: 0.0385888	reach-gr/sum 0.000784333
+111 reach: 0.0202317	reach-gr/reach: 0.0385014	reach-gr/sum 0.00077895
+112 reach: 0.0201358	reach-gr/reach: 0.0384371	reach-gr/sum 0.000773964
+113 reach: 0.0200057	reach-gr/reach: 0.0383168	reach-gr/sum 0.000766553
+114 reach: 0.0198789	reach-gr/reach: 0.0381951	reach-gr/sum 0.000759276
+115 reach: 0.0197526	reach-gr/reach: 0.0380699	reach-gr/sum 0.00075198
+116 reach: 0.0196678	reach-gr/reach: 0.0379022	reach-gr/sum 0.000745451
+117 reach: 0.0195476	reach-gr/reach: 0.0378688	reach-gr/sum 0.000740243
+118 reach: 0.0194464	reach-gr/reach: 0.0377148	reach-gr/sum 0.000733418
+119 reach: 0.0193578	reach-gr/reach: 0.0376166	reach-gr/sum 0.000728175
+120 reach: 0.0192588	reach-gr/reach: 0.0375295	reach-gr/sum 0.000722775
+121 reach: 0.0191776	reach-gr/reach: 0.0373681	reach-gr/sum 0.000716633
+122 reach: 0.0190799	reach-gr/reach: 0.0372905	reach-gr/sum 0.000711499
+123 reach: 0.0189896	reach-gr/reach: 0.0371857	reach-gr/sum 0.000706141
+124 reach: 0.0188883	reach-gr/reach: 0.0370948	reach-gr/sum 0.000700658
+125 reach: 0.0187884	reach-gr/reach: 0.0369837	reach-gr/sum 0.000694865
+126 reach: 0.0186804	reach-gr/reach: 0.0368867	reach-gr/sum 0.000689059
+127 reach: 0.0185856	reach-gr/reach: 0.0367848	reach-gr/sum 0.000683669
+128 reach: 0.0184959	reach-gr/reach: 0.0367175	reach-gr/sum 0.000679125
+129 reach: 0.0184141	reach-gr/reach: 0.0365919	reach-gr/sum 0.000673807
+130 reach: 0.0184098	reach-gr/reach: 0.0364552	reach-gr/sum 0.00067113
+131 reach: 0.018361	reach-gr/reach: 0.0363138	reach-gr/sum 0.000666757
+132 reach: 0.0182868	reach-gr/reach: 0.0362455	reach-gr/sum 0.000662816
+133 reach: 0.0183198	reach-gr/reach: 0.0362374	reach-gr/sum 0.000663863
+134 reach: 0.01825	reach-gr/reach: 0.0360809	reach-gr/sum 0.000658477
+135 reach: 0.0181789	reach-gr/reach: 0.0359487	reach-gr/sum 0.00065351
+136 reach: 0.0181122	reach-gr/reach: 0.0358869	reach-gr/sum 0.000649992
+137 reach: 0.0180343	reach-gr/reach: 0.0357889	reach-gr/sum 0.000645429
+138 reach: 0.0179731	reach-gr/reach: 0.0356843	reach-gr/sum 0.000641356
+139 reach: 0.0178946	reach-gr/reach: 0.0355992	reach-gr/sum 0.000637031
+140 reach: 0.0178065	reach-gr/reach: 0.0355234	reach-gr/sum 0.000632546
+141 reach: 0.0177209	reach-gr/reach: 0.0354254	reach-gr/sum 0.000627771
+142 reach: 0.0176501	reach-gr/reach: 0.0353686	reach-gr/sum 0.000624261
+143 reach: 0.0175625	reach-gr/reach: 0.0352996	reach-gr/sum 0.000619949
+144 reach: 0.0174788	reach-gr/reach: 0.0352043	reach-gr/sum 0.000615329
+145 reach: 0.0174243	reach-gr/reach: 0.0350819	reach-gr/sum 0.000611278
+146 reach: 0.0173553	reach-gr/reach: 0.0350445	reach-gr/sum 0.000608208
+147 reach: 0.0172742	reach-gr/reach: 0.0349537	reach-gr/sum 0.000603796
+148 reach: 0.0172106	reach-gr/reach: 0.0348782	reach-gr/sum 0.000600276
+149 reach: 0.0171275	reach-gr/reach: 0.0347957	reach-gr/sum 0.000595964
+150 reach: 0.017053	reach-gr/reach: 0.0347328	reach-gr/sum 0.000592298
+151 reach: 0.0169927	reach-gr/reach: 0.0346304	reach-gr/sum 0.000588462
+152 reach: 0.0169484	reach-gr/reach: 0.0345843	reach-gr/sum 0.000586149
+153 reach: 0.0168746	reach-gr/reach: 0.0344996	reach-gr/sum 0.000582165
+154 reach: 0.016801	reach-gr/reach: 0.0343837	reach-gr/sum 0.00057768
+155 reach: 0.0167628	reach-gr/reach: 0.0343126	reach-gr/sum 0.000575174
+156 reach: 0.016699	reach-gr/reach: 0.0342654	reach-gr/sum 0.0005722
+157 reach: 0.0166339	reach-gr/reach: 0.0341788	reach-gr/sum 0.000568528
+158 reach: 0.0165588	reach-gr/reach: 0.0340862	reach-gr/sum 0.000564426
+159 reach: 0.0164892	reach-gr/reach: 0.0340139	reach-gr/sum 0.000560863
+160 reach: 0.0164197	reach-gr/reach: 0.0339478	reach-gr/sum 0.000557412
+161 reach: 0.016372	reach-gr/reach: 0.0338945	reach-gr/sum 0.000554922
+162 reach: 0.0163144	reach-gr/reach: 0.0338712	reach-gr/sum 0.000552591
+163 reach: 0.0162519	reach-gr/reach: 0.0337918	reach-gr/sum 0.00054918
+164 reach: 0.0161782	reach-gr/reach: 0.033721	reach-gr/sum 0.000545544
+165 reach: 0.0161049	reach-gr/reach: 0.033637	reach-gr/sum 0.000541719
+166 reach: 0.0160616	reach-gr/reach: 0.0335026	reach-gr/sum 0.000538106
+167 reach: 0.0160032	reach-gr/reach: 0.0334876	reach-gr/sum 0.000535907
+168 reach: 0.015959	reach-gr/reach: 0.0334159	reach-gr/sum 0.000533286
+169 reach: 0.0159139	reach-gr/reach: 0.0333364	reach-gr/sum 0.000530514
+170 reach: 0.015847	reach-gr/reach: 0.0332688	reach-gr/sum 0.000527211
+171 reach: 0.0157745	reach-gr/reach: 0.0332027	reach-gr/sum 0.000523757
+172 reach: 0.0157201	reach-gr/reach: 0.033161	reach-gr/sum 0.000521295
+173 reach: 0.0156648	reach-gr/reach: 0.0330717	reach-gr/sum 0.000518063
+174 reach: 0.0156224	reach-gr/reach: 0.0329883	reach-gr/sum 0.000515356
+175 reach: 0.015565	reach-gr/reach: 0.0329343	reach-gr/sum 0.000512621
+176 reach: 0.0155406	reach-gr/reach: 0.0329031	reach-gr/sum 0.000511334
+177 reach: 0.0154871	reach-gr/reach: 0.0328403	reach-gr/sum 0.0005086
+178 reach: 0.0154307	reach-gr/reach: 0.0327556	reach-gr/sum 0.000505442
+179 reach: 0.0153837	reach-gr/reach: 0.0326969	reach-gr/sum 0.000502999
+180 reach: 0.0153544	reach-gr/reach: 0.0326417	reach-gr/sum 0.000501194
+181 reach: 0.0152938	reach-gr/reach: 0.0325564	reach-gr/sum 0.000497909
+182 reach: 0.0152362	reach-gr/reach: 0.0324697	reach-gr/sum 0.000494713
+183 reach: 0.0151838	reach-gr/reach: 0.0324138	reach-gr/sum 0.000492165
+184 reach: 0.0152174	reach-gr/reach: 0.0323865	reach-gr/sum 0.00049284
+185 reach: 0.0151699	reach-gr/reach: 0.0323164	reach-gr/sum 0.000490236
+186 reach: 0.0151173	reach-gr/reach: 0.0322597	reach-gr/sum 0.000487679
+187 reach: 0.015073	reach-gr/reach: 0.0321807	reach-gr/sum 0.000485059
+188 reach: 0.0150296	reach-gr/reach: 0.032126	reach-gr/sum 0.00048284
+189 reach: 0.0149913	reach-gr/reach: 0.032085	reach-gr/sum 0.000480997
+190 reach: 0.0149531	reach-gr/reach: 0.0320352	reach-gr/sum 0.000479027
+191 reach: 0.0148936	reach-gr/reach: 0.0319646	reach-gr/sum 0.000476067
+192 reach: 0.0148391	reach-gr/reach: 0.0319175	reach-gr/sum 0.000473626
+193 reach: 0.0147836	reach-gr/reach: 0.0318658	reach-gr/sum 0.000471092
+194 reach: 0.0147395	reach-gr/reach: 0.0317972	reach-gr/sum 0.000468675
+195 reach: 0.0147037	reach-gr/reach: 0.0317309	reach-gr/sum 0.000466562
+196 reach: 0.0146607	reach-gr/reach: 0.031654	reach-gr/sum 0.000464069
+197 reach: 0.0146221	reach-gr/reach: 0.0316113	reach-gr/sum 0.000462223
+198 reach: 0.0145829	reach-gr/reach: 0.0315808	reach-gr/sum 0.00046054
+199 reach: 0.0145511	reach-gr/reach: 0.0315097	reach-gr/sum 0.0004585
+200 reach: 0.0145087	reach-gr/reach: 0.0314466	reach-gr/sum 0.000456249

@@ -1,0 +1,32 @@
+#!/bin/bash
+
+function extract {
+    pushd "$1"
+    
+    rm *max
+    rm *mean
+    rm *optm
+    rm *rgrt
+    rm *sdev
+    
+    prefix="UCBT_0.73_0.19_""$1"
+    
+    cp data/_BB*_cmax  ./"$prefix"_cmax
+    cp data/_BB*_cmean ./"$prefix"_cmean
+    cp data/_BB*_coptm ./"$prefix"_coptm
+    cp data/_BB*_crgrt ./"$prefix"_crgrt
+    cp data/_BB*_csdev ./"$prefix"_csdev
+
+    cp data/_BB*_max i ./"$prefix"_max
+    cp data/_BB*_mean ./"$prefix"_mean
+    cp data/_BB*_optm ./"$prefix"_optm
+    cp data/_BB*_rgrt ./"$prefix"_rgrt
+    cp data/_BB*_sdev ./"$prefix"_sdev
+    
+    popd
+}
+
+extract beta_1_1
+extract beta_3_3
+extract beta_3_7
+extract beta_7_7

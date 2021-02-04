@@ -1,0 +1,31 @@
+#!/bin/bash
+
+function extract {
+    pushd "$1"
+    
+    rm *max
+    rm *mean
+    rm *optm
+    rm *rgrt
+    rm *sdev
+    
+    prefix="GI0.90_""$1"_
+    
+    tail -n 1 data/*_cmax  | grep " 0." | sort -n > "$prefix"cmax
+    tail -n 1 data/*_cmean | grep " 0." | sort -n > "$prefix"cmean
+    tail -n 1 data/*_coptm | grep " 0." | sort -n > "$prefix"coptm
+    tail -n 1 data/*_crgrt | grep " 0." | sort -n > "$prefix"crgrt
+    tail -n 1 data/*_csdev | grep " 0." | sort -n > "$prefix"csdev
+    tail -n 1 data/*_max  | grep " 0." | sort -n > "$prefix"max
+    tail -n 1 data/*_mean | grep " 0." | sort -n > "$prefix"mean
+    tail -n 1 data/*_optm | grep " 0." | sort -n > "$prefix"optm
+    tail -n 1 data/*_rgrt | grep " 0." | sort -n > "$prefix"rgrt
+    tail -n 1 data/*_sdev | grep " 0." | sort -n > "$prefix"sdev
+    
+    popd
+}
+
+extract beta_1_1
+extract beta_3_3
+extract beta_3_7
+extract beta_7_7
