@@ -14,4 +14,4 @@ the table would be different if decisions were made by a particular algorithm.
 This data reports what fraction of decisions a given algorithm makes while playing are suboptimal (i.e., would disagree with the optimal policy). 
 
 ## **Simulation Tools Used**
-Simulation tools used in generation of this data can be found in the [bandit_tools](https://github.com/SebastianPilarski/bandit_tools/tree/6406a23842009f34c51206586a047948d4032174) repository.
+Simulation tools used in generation of this data can be found in the [bandit_tools](https://github.com/SebastianPilarski/bandit_tools/tree/c592aac77a5596650c14b0b635d4c8ff0047fc6f) repository.
