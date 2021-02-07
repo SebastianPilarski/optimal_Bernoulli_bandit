@@ -51,3 +51,11 @@ All files contain normalized data (i.e., value is divided by its time). E.g., to
 |crgrt          | Cumulative regret          |
 |crgsd          | Cumulative std. deviation of regret     |
 |csdev          | Cumulative std. deviation of mean reward|
+
+\
+**Best Arm Identification:** - Averaged over 1 million runs
+|**File Type**  | **Meaning**                             |
+|-------------- |-------------------------                |
+|fbai           | Fraction best arm correctly identified         |
+|eltb           | Difference between actual best arm EV* and empirical best arm EVs
+\* EV = Expected Value 
