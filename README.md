@@ -15,3 +15,6 @@ This data reports what fraction of decisions a given algorithm makes while playi
 
 ## **Simulation Tools Used**
 Simulation tools used in generation of this data can be found in the [bandit_tools](https://github.com/SebastianPilarski/bandit_tools/tree/c592aac77a5596650c14b0b635d4c8ff0047fc6f) repository.
+
+## **Other Papers**
+Repository for the project including other papers can be found [here](https://github.com/sebastianpilarski/Bernoulli_bandits).
